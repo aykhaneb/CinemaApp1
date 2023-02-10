@@ -1,4 +1,4 @@
-﻿using CinemaApp1.Models;
+﻿using CinemaApp;
 using System;
 using System.Collections.Generic;
 using System.Linq;
